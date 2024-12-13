@@ -1,0 +1,7 @@
+slides/
+!slides/slides.md
+!slides/images
+rss_feed*
+.idea
+__pycache__
+*.zip
